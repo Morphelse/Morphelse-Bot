@@ -26,10 +26,10 @@ Tecnologias usadas:
 
 ## Authors
 
-| [<img src="https://cdn.discordapp.com/attachments/920700154204553226/1013985974004502640/unknown.png" width=115><br><sub>Felipe Pereira</sub>](https://github.com/felipepx) |
+| [<img src="https://cdn.discordapp.com/attachments/920700154204553226/1028695550851297290/korneychukovsky.jpg" width=115><br><sub>Felipe Pereira</sub>](https://github.com/felipepx) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |  
   
   
   
-| [<img src="https://cdn.discordapp.com/attachments/1026167688193650848/1028693205077741659/xavatario_1.png" width=115><br><sub>Malbem</sub>](https://github.com/malbem) |
+| [<img src="https://cdn.discordapp.com/attachments/869279915994939402/1028695256503418960/Captura_de_tela_2022-10-09_124715.png" width=115><br><sub>Malbem</sub>](https://github.com/malbem) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
