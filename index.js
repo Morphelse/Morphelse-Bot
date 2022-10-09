@@ -23,7 +23,7 @@ client.on("guildDelete", guild => {
 
 });
 
-
+// oi
 client.on("message", async message => {
  
     
